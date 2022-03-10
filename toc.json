@@ -112,37 +112,9 @@
       "uri": "docs/Frontend_tutorials/FE-Testing.md"
     },
     {
-      "type": "divider",
-      "title": "Usertesting"
-    },
-    {
       "type": "item",
       "title": "User testing",
       "uri": "docs/User_testing/User-testing.md"
-    },
-    {
-      "type": "divider",
-      "title": "Release guides"
-    },
-    {
-      "type": "item",
-      "title": "Branch naming conventions",
-      "uri": "docs/Release guides/Branch-naming-conventions.md"
-    },
-    {
-      "type": "item",
-      "title": "How to contribute",
-      "uri": "docs/Release guides/How-to-contribute.md"
-    },
-    {
-      "type": "item",
-      "title": "Code review process",
-      "uri": "docs/Release guides/Code-review-process.md"
-    },
-    {
-      "type": "item",
-      "title": "Release guidelines",
-      "uri": "docs/Release guides/Release-guidelines.md"
     },
     {
       "type": "divider",
