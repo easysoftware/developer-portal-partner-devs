@@ -11,18 +11,13 @@
     },
     {
       "type": "item",
-      "title": "First steps and setup your device",
-      "uri": "docs/Getting_started/First-steps.md"
+      "title": "Initial setup",
+      "uri": "docs/Getting_started/Initial-setup.md"
     },
     {
       "type": "item",
       "title": "Repository structure",
       "uri": "docs/Getting_started/Repository-structure.md"
-    },
-    {
-      "type": "item",
-      "title": "Support and tools",
-      "uri": "docs/Getting_started/Support-and-tools.md"
     },
     {
       "type": "divider",
@@ -55,8 +50,8 @@
     },
     {
       "type": "item",
-      "title": "Toggler feature",
-      "uri": "docs/Hello_RYS/Toggler-feature.md"
+      "title": "Feature toggler",
+      "uri": "docs/Hello_RYS/Feature-toggler.md"
     },
     {
       "type": "divider",
@@ -81,6 +76,11 @@
       "type": "item",
       "title": "Backend best practices",
       "uri": "docs/Backend_tutorials/BE-BP.md"
+    },
+    {
+      "type": "item",
+      "title": "The Service object pattern",
+      "uri": "docs/Backend_tutorials/BE-Services.md"
     },
     {
       "type": "item",
@@ -112,11 +112,6 @@
       "uri": "docs/Frontend_tutorials/FE-Testing.md"
     },
     {
-      "type": "item",
-      "title": "User testing",
-      "uri": "docs/User_testing/User-testing.md"
-    },
-    {
       "type": "divider",
       "title": "Learn more"
     },
@@ -126,36 +121,37 @@
       "uri": "docs/Others/FAQs.md"
     },
     {
+      "type": "divider",
+      "title": "APIs"
+    },
+    {
       "type": "item",
-      "title": "EasyProject Terminology",
-      "uri": "docs/Others/EasyProject-Terminology.md"
+      "title": "GraphQL",
+      "uri": "docs/APIs/GraphQL.md"
+    },
+    {
+      "type": "item",
+      "title": "REST-like API",
+      "uri": "docs/APIs/REST-like-API.md"
+    },
+    {
+      "type": "item",
+      "title": "REST-like API reference",
+      "uri": "docs/APIs/REST-like-API-reference.yaml"
     },
     {
       "type": "divider",
-      "title": "GraphQL Reference"
+      "title": "Redmine API"
     },
     {
       "type": "item",
-      "title": "GraphQL reference",
-      "uri": "docs/GraphQL Reference/GraphQL-Reference.md"
-    },
-    {
-      "type": "divider",
-      "title": "REST API reference"
+      "title": "Redmine REST-like API",
+      "uri": "docs/Redmine API/Redmine-REST-like-API.md"
     },
     {
       "type": "item",
-      "title": "REST API reference",
-      "uri": "docs/REST API reference/REST-API-Reference.md"
-    },
-    {
-      "type": "divider",
-      "title": "APIS"
-    },
-    {
-      "type": "item",
-      "title": "Easy Redmine API",
-      "uri": "docs/REST API reference/Reference.yaml"
+      "title": "Redmine REST-like API reference",
+      "uri": "docs/Redmine API/Redmine-REST-like-API-reference.yaml"
     }
   ]
 }
